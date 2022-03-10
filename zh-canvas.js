@@ -198,7 +198,7 @@ var cnItems = {
     "And other goodies. Support Us !": "和其他好东西。 支持我们 ！",
     "Latest news, versions, info.": "最新消息、版本、信息。",
     "So we can bring more content.": "所以我们可以带来更多的内容。",
-    "": "",
+    "None": "无",
     "": "",
     "": "",
     "": "",
